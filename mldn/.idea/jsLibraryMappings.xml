@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="mock:///bootstrap.jsp" libraries="{html5shiv}" />
+    <file url="file://$PROJECT_DIR$/web/bootstrap.jsp" libraries="{bootstrap, jquery, prettify}" />
+  </component>
+</project>
+
